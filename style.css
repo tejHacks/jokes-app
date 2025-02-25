@@ -10,9 +10,9 @@ body {
     text-align: center;
 }
 .container {
-    max-width: 500px;
-    padding: 40px;
-    border-radius: 15px;
+    max-width: 500px !important;
+    padding: 40px !important;
+    border-radius: 15px !important;
     background: rgba(0, 0, 0, 0.8);
     box-shadow: 0px 0px 20px rgba(255, 105, 180, 0.5);
 }
